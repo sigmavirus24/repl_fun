@@ -6,7 +6,8 @@ repl than irb. It really shouldn't be used at all and it doesn't have the same
 features as irb either. For example:
 
 ```
-iapetus:~/sandbox/repl_fun ruby repl.rb My Ruby REPL
+iapetus:~/sandbox/repl_fun ruby repl.rb
+My Ruby REPL
 >> i = 1
 i = 1 => 1
 >> i + 1
